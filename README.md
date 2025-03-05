@@ -20,6 +20,7 @@
 
 I know at least the absolute basics in:
 - Perl
+- Python
 - PHP
 - HTML
 - CSS
