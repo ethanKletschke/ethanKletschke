@@ -33,3 +33,4 @@ I know at least the absolute basics in:
 - XML
 - XSD
 - XSLT
+- React Native
