@@ -3,7 +3,7 @@
 ## About Me
 - Heyo, I’m Ethan Kletschke!
 - I’m interested in web development :)
-- I’m currently learning Java!
+- I’m currently learning JavaScript!
 - How to reach me:
   - Instagram: [@ethan_kletschke](https://www.instagram.com/ethan_kletschke)
   - Whatsapp: +27 71 131 0453
