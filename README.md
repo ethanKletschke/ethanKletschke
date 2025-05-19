@@ -23,6 +23,7 @@ I know at least the absolute basics in:
 - C++ 
 - CSS
 - Fortran 90
+- [GnuCOBOL](https://gnucobol.sourceforge.io/) (A modern implementation of COBOL)
 - HTML
 - Java
 - JavaScript (Node.js)
@@ -34,4 +35,3 @@ I know at least the absolute basics in:
 - XML
 - XSD
 - XSLT
-- [GnuCOBOL](https://gnucobol.sourceforge.io/) (A modern implementation of COBOL)
