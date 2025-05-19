@@ -19,18 +19,19 @@
 ## My Languages
 
 I know at least the absolute basics in:
+
+- C++ 
+- CSS
+- Fortran 90
+- HTML
+- Java
+- JavaScript (Node.js)
+- JavaScript (web)
+- PHP
 - Perl
 - Python
-- PHP
-- HTML
-- CSS
-- JavaScript (web)
-- JavaScript (Node.js)
-- C++ 
-- Java
-- [GnuCOBOL](https://gnucobol.sourceforge.io/) (A modern implementation of COBOL)
-- Fortran 90
+- React Native
 - XML
 - XSD
 - XSLT
-- React Native
+- [GnuCOBOL](https://gnucobol.sourceforge.io/) (A modern implementation of COBOL)
