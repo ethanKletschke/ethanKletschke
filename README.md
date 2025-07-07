@@ -1,12 +1,16 @@
 # Ethan Kletschke
 
 ## About Me
-- Heyo, I’m Ethan Kletschke!
+
+Heyo, I’m Ethan Kletschke! I'm a South African first-year Bachelor of Computer Science at 
+IIE Varsity College in Sandton, Johannesburg.
+
 - I’m mostly interested in web development :)
 - How to reach me:
   - Instagram: [@ethan_kletschke](https://www.instagram.com/ethan_kletschke)
   - Whatsapp: +27 71 131 0453
-  - Email: <a href="mailto:ethankletschke@outlook.com">ethankletschke@outlook.com</a>
+  - Email (professional): <a href="mailto:ethankletschke@outlook.com">ethankletschke@outlook.com</a>
+  - Email (personal) <a href="mailto:bbruhingson@gmail.com">bbruhingson@gmail.com</a>
 - Pronouns: he/him
 - Fun facts:
   - I'm 18 years old!
@@ -17,20 +21,15 @@
 
 ## My Languages
 
-I know at least the absolute basics in:
+I have at least intermediate knowledge in:
 
-- C++ 
 - CSS
-- Fortran 90
-- [GnuCOBOL](https://gnucobol.sourceforge.io/) (A modern implementation of COBOL)
 - HTML
+- JavaScript (Node.js and web)
+- React
+
+And I know at least the basics of:
+
 - Java
-- JavaScript (Node.js)
-- JavaScript (web)
-- PHP
-- Perl
 - Python
-- React Native
-- XML
-- XSD
-- XSLT
+- C++
