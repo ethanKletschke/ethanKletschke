@@ -31,5 +31,16 @@ I have at least intermediate knowledge in:
 And I know at least the basics of:
 
 - Java
+- Pascal (Delphi)
 - Python
+- SQL
+
+And have experimented with:
+
+- Angular
+- C
+- C#
 - C++
+- Fortran 90
+- GnuCOBOL
+- Perl
