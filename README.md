@@ -16,8 +16,7 @@ IIE Varsity College in Sandton, Johannesburg.
   - I'm 18 years old!
   - I'm currently studying at IIE Varsity College in Sandton.
   - My girlfriend is the best :)
-  - I know a wide variety of programming languages, listed [here](#my-languages).
-  - I taught myself the basics of many programming languages.
+  - I taught myself the basics of many programming languages, listed [here](#my-languages).
 
 ## My Languages
 
