@@ -16,7 +16,6 @@ IIE Varsity College in Sandton, Johannesburg.
 - Fun facts:
   - I'm 18 years old!
   - I'm currently studying at IIE Varsity College in Sandton.
-  - My girlfriend is the best :)
   - I taught myself the basics of many programming languages, listed [here](#my-languages).
 
 ## My Languages
@@ -27,13 +26,13 @@ I have at least intermediate knowledge in:
 - HTML
 - JavaScript (Node.js and web)
 - React
+- PostgreSQL
 
 And I know at least the basics of:
 
 - Java
 - Pascal (Delphi)
 - Python
-- SQL
 
 And have experimented with:
 
