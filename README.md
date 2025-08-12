@@ -5,7 +5,8 @@
 Heyo, I’m Ethan Kletschke! I'm a South African first-year Bachelor of Computer Science at 
 IIE Varsity College in Sandton, Johannesburg.
 
-- I’m mostly interested in web development :)
+- I’m mostly interested in web development, but am well-versed in a wide variety of programming
+  languages related to software and web apps.
 - How to reach me:
   - Instagram: [@ethan_kletschke](https://www.instagram.com/ethan_kletschke)
   - Whatsapp: +27 71 131 0453
