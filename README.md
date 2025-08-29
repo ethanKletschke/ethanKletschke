@@ -2,7 +2,7 @@
 
 ## About Me
 
-Heyo, I’m Ethan Kletschke! I'm a South African first-year Bachelor of Computer Science at 
+Heyo, I’m Ethan Kletschke! I'm a South African first-year Bachelor of Computer Science student at 
 IIE Varsity College in Sandton, Johannesburg.
 
 - I’m mostly interested in web development, but am well-versed in a wide variety of programming
