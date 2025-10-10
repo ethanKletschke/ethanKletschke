@@ -41,12 +41,11 @@ And I know at least the basics of:
 I have previously experimented to varying degrees with the following languages and frameworks:
 
 - [GnuCOBOL](https://gnucobol.sourceforge.io/)
-  - I still use GnuCOBOL sometimes, but only for hobby programs. Do not ask me to use it in commercial apps
-    or even as a commission; the app is bound to suck.
+  - I no longer use COBOL in any way, shape, or form.
 - Perl
 - C++
-- C
-- C#
+- C (Barely)
+- C# (long ago)
 - Bootstrap 4
 - Bootstrap 5
 - jQuery
@@ -55,7 +54,7 @@ I have previously experimented to varying degrees with the following languages a
   - XML DTD
   - XPath
   - XSLT
-- Angular
-- R
+- Angular (barely)
+- R (barely)
 - Makefile
 
