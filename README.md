@@ -28,13 +28,13 @@ I have at least intermediate knowledge in:
 - TypeScript
 - React
 - PostgreSQL
+- PHP
 
 And I know at least the basics of:
 
 - Java
 - Pascal (Delphi)
 - Python
-- PHP
 
 ---
 
