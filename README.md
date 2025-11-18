@@ -45,8 +45,6 @@ I have previously experimented to varying degrees with the following languages a
   - I no longer use COBOL in any way, shape, or form.
 - Perl
 - C++
-- C (Barely)
-- C# (long ago)
 - Bootstrap 4
 - Bootstrap 5
 - jQuery
@@ -55,7 +53,5 @@ I have previously experimented to varying degrees with the following languages a
   - XML DTD
   - XPath
   - XSLT
-- Angular (barely)
-- R (barely)
 - Makefile
 
