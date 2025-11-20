@@ -7,6 +7,7 @@ IIE Varsity College in Sandton, Johannesburg.
 
 - I’m mostly interested in web development, but am well-versed in a wide variety of programming
   languages related to software and web apps.
+  - See my portfolio app [at this repository](https://github.com/ethanKletschke/TSX-Portfolio-App).
 - How to reach me: 
   - LinkedIn: [LinkedIn](www.linkedin.com/in/ethan-kletschke-164a24384) 
   - Instagram: [@ethan_kletschke](https://www.instagram.com/ethan_kletschke)
