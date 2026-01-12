@@ -2,8 +2,8 @@
 
 ## About Me
 
-Heyo, I’m Ethan Kletschke! I'm a South African first-year Bachelor of Computer Science student at 
-IIE Varsity College in Sandton, Johannesburg.
+Heyo, I’m Ethan Kletschke! I'm a South African second-year Bachelor of Computer Science student at 
+Emeris in Sandton, Johannesburg.
 
 - I’m mostly interested in web development, but am well-versed in a wide variety of programming
   languages related to software and web apps.
@@ -16,7 +16,7 @@ IIE Varsity College in Sandton, Johannesburg.
 - Pronouns: he/him
 - Fun facts:
   - My birthday is on 2006-12-06
-  - I'm currently studying at IIE Varsity College in Sandton.
+  - I'm currently studying at Emeris in Sandton.
   - I taught myself the basics of many programming languages, listed [here](#my-languages).
 
 ## My Languages/Frameworks
