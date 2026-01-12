@@ -13,7 +13,6 @@ IIE Varsity College in Sandton, Johannesburg.
   - Instagram: [@ethan_kletschke](https://www.instagram.com/ethan_kletschke)
   - Whatsapp: +27 71 131 0453
   - Email (professional): <a href="mailto:ethankletschke@outlook.com">ethankletschke@outlook.com</a>
-  - Email (personal): <a href="mailto:bbruhingson@gmail.com">bbruhingson@gmail.com</a> (Avoid emailing me here, I never check this LOL)
 - Pronouns: he/him
 - Fun facts:
   - My birthday is on 2006-12-06
