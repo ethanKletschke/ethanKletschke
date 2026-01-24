@@ -42,7 +42,7 @@ And I know at least the basics of:
 I have previously experimented to varying degrees with the following languages and frameworks:
 
 - [GnuCOBOL](https://gnucobol.sourceforge.io/)
-  - I no longer use COBOL in any way, shape, or form.
+  - I still use GnuCOBOL rarely, for hobby apps only.
 - Perl
 - C++
 - Bootstrap 4
