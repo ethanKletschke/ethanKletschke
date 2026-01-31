@@ -37,7 +37,7 @@ And I know at least the basics of:
 - Python
 
 I use the following for hobby projects:
-- [COBOL (specifically GnuCOBOL)](https://gnucobol.sourceforge.io/)
+- COBOL (specifically [GnuCOBOL](https://gnucobol.sourceforge.io/))
   - I still use COBOL rarely, for hobby apps only.
 - XML, XSD, and XML DTD
 - XSLT
