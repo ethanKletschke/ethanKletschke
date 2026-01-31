@@ -29,7 +29,6 @@ I have at least intermediate knowledge in:
 - TypeScript
 - React
 - PostgreSQL
-- PHP
 
 And I know at least the basics of:
 
@@ -37,21 +36,23 @@ And I know at least the basics of:
 - Pascal (Delphi)
 - Python
 
+I use the following for hobby projects:
+- [COBOL (specifically GnuCOBOL)](https://gnucobol.sourceforge.io/)
+  - I still use COBOL rarely, for hobby apps only.
+- XML, XSD, and XML DTD
+- XSLT
+
 ---
 
-I have previously experimented to varying degrees with the following languages and frameworks:
+I have previously experimented to varying degrees with the languages and frameworks listed below.
+Unless otherwise specified, I do not use these languages and frameworks anymore.
 
-- [GnuCOBOL](https://gnucobol.sourceforge.io/)
-  - I still use GnuCOBOL rarely, for hobby apps only.
 - Perl
 - C++
 - Bootstrap 4
 - Bootstrap 5
+- PHP
+- Material UI (React)
 - jQuery
-- XML and its related languages
-  - XSD
-  - XML DTD
-  - XPath
-  - XSLT
 - Makefile
 
