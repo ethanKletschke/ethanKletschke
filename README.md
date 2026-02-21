@@ -36,11 +36,7 @@ And I know at least the basics of:
 - Pascal (Delphi)
 - Python
 
-I use the following for hobby projects:
-- COBOL (specifically [GnuCOBOL](https://gnucobol.sourceforge.io/))
-  - I still use COBOL rarely, for hobby apps only.
-- XML, XSD, and XML DTD
-- XSLT
+I use COBOL for hobby projects (specifically [GnuCOBOL](https://gnucobol.sourceforge.io/)).
 
 ---
 
