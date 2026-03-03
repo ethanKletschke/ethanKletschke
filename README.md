@@ -18,8 +18,7 @@ Emeris in Sandton, Johannesburg.
   - My birthday is on 2006-12-06
   - I'm currently studying at Emeris in Sandton.
   - I taught myself the basics of many programming languages, listed [here](#my-languages).
-  - Although I use AI to help with my coding every now and again, I am strictly against full-on
-    vibe coding. It defeats the purpose of actually being a programmer, in my opinion.
+  - I use AI sometimes for debugging or explaining concepts, but I prefer writing my own code. I’m here to actually learn, not just generate projects.
 
 ## My Languages/Frameworks
 
