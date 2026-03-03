@@ -10,8 +10,6 @@ Emeris in Sandton, Johannesburg.
   - See my portfolio app [here](https://ethankletschke.netlify.app/).
 - How to reach me: 
   - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ethan-kletschke-164a24384) 
-  - Instagram: [@ethan_kletschke](https://www.instagram.com/ethan_kletschke)
-  - Whatsapp: +27 71 131 0453
   - Email (professional): <a href="mailto:ethankletschke@outlook.com">ethankletschke@outlook.com</a>
 - Pronouns: he/him
 - Fun facts:
