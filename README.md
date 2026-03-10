@@ -10,7 +10,7 @@ Emeris in Sandton, Johannesburg.
   - See my portfolio app [here](https://ethankletschke.netlify.app/).
 - How to reach me: 
   - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ethan-kletschke-164a24384) 
-  - Email (professional): <a href="mailto:ethankletschke@outlook.com">ethankletschke@outlook.com</a>
+  - Email: <a href="mailto:ethankletschke@outlook.com">ethankletschke@outlook.com</a>
 - Pronouns: he/him
 - Fun facts:
   - My birthday is on 2006-12-06
@@ -35,7 +35,7 @@ And I know at least the basics of:
 - Pascal (Delphi)
 - Python
 
-I use COBOL for hobby projects (specifically [GnuCOBOL](https://gnucobol.sourceforge.io/)).
+I use COBOL rarely for hobby projects (specifically [GnuCOBOL](https://gnucobol.sourceforge.io/)).
 
 ---
 
